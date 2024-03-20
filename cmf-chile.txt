@@ -1,0 +1,27 @@
+! ------------------------------------[UPDATE]--------------------------------------
+! Title: CMF Blocklist
+! Expires: 30 day
+! Homepage: https://www.cmfchile.cl/portal/principal/613/w3-propertyvalue-43333.html#alerta_alertas_listado
+! Help: https://github.com/robsalasco/cmf_blocklists
+! License: https://unlicense.org
+! ------------------------------------[SUPPORT]-------------------------------------
+! You can support by:
+! - reporting false positives
+! -------------------------------------[INFO]---------------------------------------
+!
+! CMF Alertas Blocklist
+! ------------------------------------[FILTERS]-------------------------------------
+||tifimoni.com^
+||chile.facilsoles.vip^
+||vicucash.com^
+||elefantecl.com^
+||maquicash.net^
+||stellacredito.com^
+||chburocredito.com^
+||tuefecty.com^
+||cumpacash.cc^
+||altirocash.fun^
+||mimorlaco.com^
+||iquina.cc^
+||prestasolcl.com^
+||iluca.cc^
