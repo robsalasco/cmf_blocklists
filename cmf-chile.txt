@@ -11,6 +11,26 @@
 !
 ! CMF Alertas Blocklist
 ! ------------------------------------[FILTERS]-------------------------------------
+||superprestamo.site^
+||prestamosapk.com^
+||flashpeso.com^
+||prestamosapk.com^
+||appplata.com^
+||credmaxchile.com^
+||cuotaflexipago.com^
+||prestamosapp.com^
+||simplecashapp.com^
+||creditojusto.cc^
+||cl.alfacreditchile.com^
+||lanahoy.biz^
+||dedicacioncl.com^
+||prestafacilcolom.com^
+||bogofin.com^
+||clinclin.cc
+||okpeso.app^
+||llamacash2.com^
+||gambacash.com^
+||prestayami.com^
 ||tifimoni.com^
 ||chile.facilsoles.vip^
 ||vicucash.com^
@@ -22,8 +42,7 @@
 ||cumpacash.cc^
 ||altirocash.fun^
 ||mimorlaco.com^
+||mimorlaco.xyz^
 ||iquina.cc^
 ||prestasolcl.com^
 ||iluca.cc^
-||prestayami.com^
-||gambacash.com^
